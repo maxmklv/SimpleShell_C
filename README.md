@@ -20,6 +20,8 @@ make
 # Step 2: Run the shell
 bash ./main
 
+```
+
 # References
 
 ## Authors
