@@ -1,4 +1,4 @@
-# Project 1: Simple Shell — Basic C Shell Implementation
+# Simple Shell — Basic C Shell Implementation
 
 This project focuses on the design and implementation of a simple shell in C. The goal is to apply C programming concepts to recreate basic shell functionality and establish a foundation for future projects. The program provides:
 
