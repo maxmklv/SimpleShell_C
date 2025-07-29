@@ -26,4 +26,4 @@ bash ./main
 
 ## Authors
 Maxim Mikhaylov
-- [github](https://www.github.com/maxmklv/SimpleShell_C)
+- [GitHub](https://www.github.com/maxmklv/SimpleShell_C)
